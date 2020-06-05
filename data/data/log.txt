@@ -1,0 +1,3 @@
+Date       Src    Std   Setting
+20080710   AS205        L
+20080710   RNO90       
